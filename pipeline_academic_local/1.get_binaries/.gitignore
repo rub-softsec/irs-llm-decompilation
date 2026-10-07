@@ -1,0 +1,11 @@
+# Input data
+input/
+
+# Generated output
+output/
+error.txt
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class

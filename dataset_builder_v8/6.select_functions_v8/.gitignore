@@ -1,0 +1,7 @@
+# Generated artifacts
+output/
+*.json
+
+# Python cache
+__pycache__/
+*.py[cod]

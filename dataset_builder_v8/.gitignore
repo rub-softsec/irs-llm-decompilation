@@ -1,0 +1,20 @@
+# General output directories
+output/
+logs/
+output_*/
+
+# Intermediate map files
+*.json
+!pack*.json
+
+# Binaries
+d8
+v8_dir.zip
+
+# Logs
+*.txt
+*.log
+
+# Python
+__pycache__/
+*.py[cod]

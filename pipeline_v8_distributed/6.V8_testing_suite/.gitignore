@@ -1,0 +1,18 @@
+# Sensitive Configuration
+machines.json
+
+# Input/Output
+input/
+output/
+logs/
+done.txt
+v8_dir.zip
+v8_dir/
+
+# Python environment & artifacts
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+error.txt
+.DS_Store

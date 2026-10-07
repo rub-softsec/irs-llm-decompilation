@@ -1,0 +1,12 @@
+# Generated output directories
+output/
+output_filtered/
+output_c/
+
+# Intermediate mapping files
+map.json
+map_filtered.json
+
+# Python cache
+__pycache__/
+*.py[cod]

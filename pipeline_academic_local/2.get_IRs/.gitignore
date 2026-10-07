@@ -1,0 +1,11 @@
+# Input binaries
+input/
+
+# Generated IRs
+output/
+error.txt
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class

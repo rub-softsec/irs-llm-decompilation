@@ -1,0 +1,10 @@
+# Generated artifacts
+output/
+logs/
+*.txt
+done.txt
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]

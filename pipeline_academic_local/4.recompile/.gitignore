@@ -1,0 +1,10 @@
+# Runtime data
+input/
+output/
+json/
+error.txt
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class

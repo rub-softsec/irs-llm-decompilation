@@ -1,0 +1,8 @@
+# Generated artifacts
+map_uncovered.json
+map_covered.json
+*.json
+
+# Python cache
+__pycache__/
+*.py[cod]

@@ -1,0 +1,20 @@
+# Runtime data
+input/
+output/
+batch_state.json
+batch_info.json
+error.txt
+
+# Configuration keys
+.secret
+
+# Logs and temporary files
+logger/
+batch_results/
+**/logger/
+**/batch_results/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class

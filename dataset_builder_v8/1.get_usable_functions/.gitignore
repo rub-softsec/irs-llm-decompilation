@@ -1,0 +1,7 @@
+# Generated output
+map_usable.json
+*.json
+
+# Python cache
+__pycache__/
+*.py[cod]

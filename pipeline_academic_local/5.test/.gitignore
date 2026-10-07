@@ -1,0 +1,11 @@
+# Runtime data
+input/
+output/
+json/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+binarytest/__pycache__/
+jsonl_reader/__pycache__/

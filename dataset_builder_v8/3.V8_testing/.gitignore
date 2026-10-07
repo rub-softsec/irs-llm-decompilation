@@ -1,0 +1,13 @@
+# Generated artifacts
+output/
+logs/
+*.txt
+done.txt
+*.log
+*.out
+
+# Configuration with sensitive/env-specific info
+
+# Python cache
+__pycache__/
+*.py[cod]

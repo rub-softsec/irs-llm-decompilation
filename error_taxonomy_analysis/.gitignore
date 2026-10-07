@@ -1,0 +1,11 @@
+# Exclude input/output directories
+input/
+output/
+
+# Exclude generated analysis results
+*.json
+*.csv
+
+# Exclude Python cache
+__pycache__/
+*.pyc
